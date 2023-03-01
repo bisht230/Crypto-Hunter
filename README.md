@@ -77,7 +77,7 @@ To get a copy of this Project you can clone it or get a copy of it localy by
 
 1. Clone the repository with
    ```
-       git clone https://github.com/barakadanny/coiner-crypto.git
+       git clone https://github.com/bisht230/Crypto-Hunter.git
    ```
 2. Navigate to the clone project, then Install dependencies 
    ```
@@ -113,7 +113,7 @@ This project can be used in any situation learning, development or production st
 <!-- ROADMAP -->
 ## Live Project
 
-- [See Live](https://coiner-crypto.vercel.app/)
+- [See Live]()
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -135,20 +135,3 @@ Don't forget to give the project a star! Thanks again!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Baraka Danny - Barakadan421@gmail.com
-#� �C�r�y�p�t�o�-�H�u�n�t�e�r�
-�
-�
