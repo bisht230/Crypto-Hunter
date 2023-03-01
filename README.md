@@ -8,7 +8,7 @@
   <a href="https://github.com/othneildrew/Best-README-Template">
   </a>
 
-  <h3 align="center">Coiner crypto</h3>
+  <h3 align="center">Crypto Hunter</h3>
 
 </div>
 
@@ -113,7 +113,7 @@ This project can be used in any situation learning, development or production st
 <!-- ROADMAP -->
 ## Live Project
 
-- [See Live]()
+- [See Live](https://crypto-hunter-beige.vercel.app/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
